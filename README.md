@@ -1,4 +1,4 @@
-## yo
+## Welcome to my GitHub!
 
 - 👋 Hi, I’m @melzarjanchico
 - 👀 I’m interested in game development
