@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on something
 - 📫 Reach me here. Thanks.
 
-Refer to [@melzarjanchico-up](https://github.com/melzarjanchico-up) for my ✨educational✨ github account.
+Please refer to [@melzarjanchico-up](https://github.com/melzarjanchico-up) for my ✨educational✨ github account and most of my portfolio. Thanks!
 
 <!---
 melzarjanchico/melzarjanchico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
