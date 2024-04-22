@@ -1,10 +1,12 @@
 
 # 👋 Hi, I'm Melzar Jan!
 
+<!--
 ### 📖 Lore
 Hi, I'm Melzar Jan Chico, a passionate gamer and game development enthusiast hailing from Lapu-Lapu City. I've always been fascinated by video games and how they're created, which led me to dabble in game development using GameMaker Studio. However, I wanted to learn more about the technical aspects of game development, so I pursued a degree in Computer Science at the prestigious University of the Philippines. Currently, I'm honing my skills in game development and front-end development, always striving to learn more and create amazing games that people can enjoy.
 
 Currently, I'm honing my skills in game development and front-end development, always striving to learn more and create amazing games that people can enjoy.
+-->
 
 ### 📝 Experience
 - 💙 Passionate in software engineering, data analysis, and game development!
