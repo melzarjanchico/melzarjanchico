@@ -16,6 +16,7 @@ Currently, I'm honing my skills in game development and front-end development, a
 - 💼 Former Project-based Data Analyst and Intern in PJ Lhuillier Group of Companies (Cebuana).
 - 💻 Refer to my Educational GitHub Account ([@melzarjanchico-up](https://github.com/melzarjanchico-up)) for my school portfolio.
 
+<!--
 ### 🛠 Skills
 - General Programming <br>
   ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white)
@@ -48,6 +49,7 @@ Currently, I'm honing my skills in game development and front-end development, a
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-grey?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Google Colab](https://img.shields.io/badge/Google_Colab-grey?style=for-the-badge&logo=googlecolab&logoColor=white)
   ![Kaggle Notebook](https://img.shields.io/badge/Kaggle_Notebook-grey?style=for-the-badge&logo=kaggle&logoColor=white)
+-->
 
 ### 📲 Contacts
 <p align="center">
