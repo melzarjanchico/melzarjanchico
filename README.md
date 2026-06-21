@@ -9,7 +9,8 @@ Currently, I'm honing my skills mainly in software engineering, always striving 
 -->
 
 ### 📝 Experience
-- 💼 Software Engineer at Talino Venture Studios
+- 💼 Firmware Engineer at Lexmark/Xerox.
+- 💼 Former Software Engineer at Talino Venture Studios.
 - 💼 Former Project-based Data Analyst and Intern at PJ Lhuillier Group of Companies (Cebuana).
 - 💼 Former Frontend Developer Intern at MYT SoftDev Solutions, Inc.
 - 💼 Former IT Intern at Kuehne + Nagel Philippines.
